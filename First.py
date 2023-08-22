@@ -15,12 +15,12 @@ print(type(surname))
 age = int(age)
 print(type(age))
 
-# converting integer into string age = str(age)
-print(type(age))
+# converting integer into string
+age = str(age)
 print(type(age))
 
 true_booleen = True
 false_booleen = False
 
-print(type(true-boolean))
+print(type(true_booleen))
 
