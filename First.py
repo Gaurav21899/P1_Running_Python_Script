@@ -1,4 +1,6 @@
-print("Hello World")
+name = "Gaurav"
+surname = "Pandey"
+print(name)
+print(surname)
 
-print("Gaurav Pandey")
-print("Aniket")
+print("My first name is {} and my surname is {}".format(name, surname))
